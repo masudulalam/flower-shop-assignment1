@@ -1,0 +1,44 @@
+/* common shared styles */
+body {
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btn-primary {
+    background-color: #E55473;
+    border-radius: 8px;
+    padding: 20px 43px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+/* banner related styles */
+.header{
+    display: flex;
+    gap: 100px;
+}
+
+.banner-content{
+    padding-left: 240px;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.header .banner-pic {
+    width: 635px;
+    height: 800px;
+}
+
+.banner-pic{
+    padding-right: 240px;
+}
