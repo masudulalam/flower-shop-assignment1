@@ -120,7 +120,8 @@ body {
 /* Get The Latest Deal Section Styles */
 .the-latest-deal {
     background-image: url(../images/Rectangle\ 9.png);
-    /* padding-left: 240px; */
+    background-repeat: no-repeat;
+    margin-left: 240px;
 }
 
 .input-section {
