@@ -15,6 +15,10 @@ body {
     border: 0px;
 }
 
+.section-title-center{
+    text-align: center;
+}
+
 /* banner related styles */
 .header {
     display: flex;
@@ -75,4 +79,13 @@ body {
 .hot-deal-pic {
     width: 320px;
     height: 420px;
+}
+
+/* Flower gallery Section Styles */
+.image-container{
+    padding-left: 240px;
+}
+
+.gallery-image{
+    padding-right: 10px;
 }
