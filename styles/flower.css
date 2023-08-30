@@ -12,16 +12,17 @@ body {
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
+    border: 0px;
 }
 
 /* banner related styles */
-.header{
+.header {
     display: flex;
     gap: 100px;
     background-color: rgba(229, 84, 115, 0.10);
 }
 
-.banner-content{
+.banner-content {
     padding-left: 240px;
 }
 
@@ -40,6 +41,38 @@ body {
     height: 800px;
 }
 
-.banner-pic{
+.banner-pic {
     padding-right: 240px;
+}
+
+/* Hot Deal Section Styles */
+.hot-deal {
+    display: flex;
+    gap: 180px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.text-section {
+    padding-left: 240px;
+}
+
+.image-section {
+    padding-right: 240px;
+}
+
+.section-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+}
+
+.hot-deal-pic {
+    width: 320px;
+    height: 420px;
 }
