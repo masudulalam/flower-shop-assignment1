@@ -17,6 +17,7 @@ body {
 
 .section-title-center{
     text-align: center;
+    padding-top: 120px;
 }
 
 /* banner related styles */
@@ -89,3 +90,19 @@ body {
 .gallery-image{
     padding-right: 10px;
 }
+
+/* Get The Latest Deal Section Styles */
+.the-latest-deal{
+    background-image: url(../images/Rectangle\ 9.png);
+}
+.input-section{
+    display: inline;
+    gap: 30px;
+    text-align: center;
+}
+
+input[type=email] {
+    width: 500px;
+    height: 55px;
+}
+
