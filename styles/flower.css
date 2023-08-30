@@ -15,7 +15,7 @@ body {
     border: 0px;
 }
 
-.section-title-center{
+.section-title-center {
     text-align: center;
     padding-top: 120px;
 }
@@ -83,19 +83,20 @@ body {
 }
 
 /* Flower gallery Section Styles */
-.image-container{
+.image-container {
     padding-left: 240px;
 }
 
-.gallery-image{
+.gallery-image {
     padding-right: 10px;
 }
 
 /* Get The Latest Deal Section Styles */
-.the-latest-deal{
+.the-latest-deal {
     background-image: url(../images/Rectangle\ 9.png);
 }
-.input-section{
+
+.input-section {
     display: inline;
     gap: 30px;
     text-align: center;
@@ -106,7 +107,32 @@ input[type=email] {
     height: 55px;
 }
 
-#the-latest-deal-btn{
+#the-latest-deal-btn {
     margin-bottom: 120px;
 }
 
+/* Footer Styles */
+.footer {
+    background-color: #111010;
+}
+
+#flower-color {
+    color: #E55473;
+    font-size: 48px;
+}
+
+#shop-color {
+    color: #FFF;
+    font-size: 48px;
+
+}
+
+#footer-description {
+    color: rgba(255, 255, 255, 0.90);
+}
+
+#footer-copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    padding-bottom: 120px;
+}
