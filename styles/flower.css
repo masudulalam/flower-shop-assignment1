@@ -55,6 +55,7 @@ body {
     display: flex;
     gap: 40px;
     justify-content: center;
+    margin-top: 50px;
 }
 
 .our-featured-image1 {
@@ -119,6 +120,7 @@ body {
 /* Get The Latest Deal Section Styles */
 .the-latest-deal {
     background-image: url(../images/Rectangle\ 9.png);
+    /* padding-left: 240px; */
 }
 
 .input-section {
@@ -139,6 +141,7 @@ input[type=email] {
 /* Footer Styles */
 .footer {
     background-color: #111010;
+    margin-top: 50px;
 }
 
 #flower-color {
@@ -149,7 +152,6 @@ input[type=email] {
 #shop-color {
     color: #FFF;
     font-size: 48px;
-
 }
 
 #footer-description {
